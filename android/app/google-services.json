@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2813379159",
+    "project_id": "lab10-e35cd",
+    "storage_bucket": "lab10-e35cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2813379159:android:4205005345471709d29912",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL9cNIUVX4A-M3mp4CsSJqOvRovR5GMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2813379159:android:8fa1edb01ecb188cd29912",
+        "android_client_info": {
+          "package_name": "com.example.lab10_notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL9cNIUVX4A-M3mp4CsSJqOvRovR5GMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
